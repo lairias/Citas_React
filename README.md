@@ -1,4 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## App de Citas con React JS 
+
+<br />
+
+## Visualizacion del Proyecto
+
+![SharedScreenshot](https://user-images.githubusercontent.com/54221775/92422919-63a04100-f13c-11ea-9d6d-6806fcf71b85.jpg)
+
+
+![SharedScreenshot1](https://user-images.githubusercontent.com/54221775/92422959-7d418880-f13c-11ea-989d-ce6d11df5644.jpg)
+
+
+
+This project  with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
